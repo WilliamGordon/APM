@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
-@import "~bootstrap/dist/cdd/bootstrap.min.css";
-@import "~font-awsome/css/font-awsome.min.css";
+@import "..\node_modules\bootstrap\dist\css\bootstrap.min.css";
+@import "..\node_modules\font-awesome\css\font-awesome.min.css";
 
 div.card-header {
  font-size: large;
